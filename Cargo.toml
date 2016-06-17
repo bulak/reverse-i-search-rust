@@ -1,7 +1,7 @@
 [package]
 name = "i-search"
 version = "0.1.0"
-authors = ["Bulak Arpat <Bulak.Arpat@unil.ch>"]
+authors = ["Bulak Arpat <Bulak.Arpat@gmail.ch>"]
 
 [dependencies]
 ncurses = "5.80.0"
